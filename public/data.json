@@ -1,0 +1,254 @@
+{
+  "es": {
+    "nav": {
+      "home": "Inicio",
+      "about": "Acerca de",
+      "portfolio": "Portafolio",
+      "contact": "Contacto"
+    },
+    "hero": {
+      "greeting": "Hola, soy",
+      "name": "Jesús Daniel Hernández Bocanegra",
+      "title": "Ingeniero de Helpdesk",
+      "description": "Especializado en soporte técnico, infraestructura de redes y automatización. Transformo problemas en soluciones.",
+      "cta": "Ver mi trabajo"
+    },
+    "about": {
+      "title": "Acerca de mí",
+      "description": "Con más de 3 años de experiencia en soporte técnico y desarrollo, me apasiona resolver problemas complejos y optimizar sistemas.",
+      "skillsTitle": "Habilidades técnicas",
+      "skills": [
+        "Conversational English",
+        "Web Development",
+        "Windows scripts (CMD, PowerShell)",
+        "Google Workspace",
+        "SalesForce",
+        "VoIP configuration",
+        "DNS troubleshooting",
+        "End User Support",
+        "Networking",
+        "Server Installations",
+        "Zendesk Admin"
+      ],
+      "experiences": [
+        {
+          "company": "Solrite Energy",
+          "position": "Infrastructure Helpdesk Engineer",
+          "period": "Feb 2025 - Oct 2025",
+          "location": "Tijuana, BC",
+          "description": "Asistí en el despliegue de nuevos servidores, diagnóstico de Windows y automatización con scripts."
+        },
+        {
+          "company": "Telvista-Verizon",
+          "position": "Technical Support Representative",
+          "period": "Mar 2024 - Jul 2024",
+          "location": "Tijuana, BC",
+          "description": "Soporte de routers, VoIP y cable boxes."
+        },
+        {
+          "company": "One-Click - Veo",
+          "position": "Technical Support Representative",
+          "period": "Jul 2023 - Mar 2024",
+          "location": "Tijuana, BC",
+          "description": "Soporte a cámaras con IA, actualizaciones, CRM Salesforce."
+        },
+        {
+          "company": "Programación Caret de Mexico",
+          "position": "Full Stack Developer .Net (Internship)",
+          "period": "Mar 2022 - Jul 2022",
+          "location": "Tijuana, BC",
+          "description": "Desarrollo web con .Net, Bootstrap, JavaScript, AWS, SQL."
+        },
+        {
+          "company": "Poly-HP Company",
+          "position": "Technical Support Representative",
+          "period": "Abr 2022 - Mar 2023",
+          "location": "Tijuana, BC",
+          "description": "Soporte a terminales de video IP y teléfonos VoIP."
+        },
+        {
+          "company": "Instituto Frontera",
+          "position": "Backend Developer Laravel (Internship)",
+          "period": "Ago 2021 - Dic 2021",
+          "location": "Tijuana, BC",
+          "description": "Mantenimiento de aula virtual con Laravel y Git."
+        }
+      ]
+    },
+    "portfolio": {
+      "title": "Portafolio",
+      "description": "Una selección de mis proyectos y trabajos recientes.",
+      "items": [
+        {
+          "image": "/pictures/1.jpeg",
+          "title": "Infraestructura de Red",
+          "description": "Despliegue de servidores y cableado estructurado.",
+          "tags": ["Redes", "Servidores", "Panduit"]
+        },
+        {
+          "image": "/pictures/5.jpeg",
+          "title": "Automatización con Scripts",
+          "description": "Scripts para administración de sistemas y seguridad.",
+          "tags": ["PowerShell", "CMD", "Automatización"]
+        },
+        {
+          "image": "/pictures/Img1.jpg",
+          "title": "Proyecto Arduino",
+          "description": "Prototipo de control automatizado con Arduino.",
+          "tags": ["Arduino", "Electrónica", "C++"]
+        },
+        {
+          "image": "/pictures/6.png",
+          "title": "Desarrollo Web",
+          "description": "Aplicaciones con Node.js, Express y React.",
+          "tags": ["Node.js", "Express", "React"]
+        }
+      ]
+    },
+    "contact": {
+      "title": "Contacto",
+      "description": "¿Tienes un proyecto en mente? No dudes en contactarme.",
+      "formName": "Nombre",
+      "formEmail": "Email",
+      "formMessage": "Mensaje",
+      "submit": "Enviar Mensaje",
+      "social": {
+        "linkedin": "https://www.linkedin.com/in/jesus-daniel-hernandez-bocanegra-9b008322b/",
+        "github": "https://github.com/Thecooldaniel64",
+        "email": "jesusdanielh.b@hotmail.com",
+        "phone": "+52 (664) 335-8054"
+      },
+      "extra": "¡Escríbeme! Estaré encantado de conversar.",
+      "emailDirect": "jesusdanielh.b@hotmail.com"
+    },
+    "footer": {
+      "text": "Hecho con ❤️ por Jesús Daniel Hernández © 2026"
+    }
+  },
+  "en": {
+    "nav": {
+      "home": "Home",
+      "about": "About",
+      "portfolio": "Portfolio",
+      "contact": "Contact"
+    },
+    "hero": {
+      "greeting": "Hello, I'm",
+      "name": "Jesús Daniel Hernández Bocanegra",
+      "title": "Helpdesk Engineer",
+      "description": "Specialized in technical support, network infrastructure, and automation. I turn problems into solutions.",
+      "cta": "See my work"
+    },
+    "about": {
+      "title": "About Me",
+      "description": "With over 3 years of experience in technical support and development, I am passionate about solving complex problems and optimizing systems.",
+      "skillsTitle": "Technical Skills",
+      "skills": [
+        "Conversational English",
+        "Web Development",
+        "Windows scripts (CMD, PowerShell)",
+        "Google Workspace",
+        "SalesForce",
+        "VoIP configuration",
+        "DNS troubleshooting",
+        "End User Support",
+        "Networking",
+        "Server Installations",
+        "Zendesk Admin"
+      ],
+      "experiences": [
+        {
+          "company": "Solrite Energy",
+          "position": "Infrastructure Helpdesk Engineer",
+          "period": "Feb 2025 - Oct 2025",
+          "location": "Tijuana, BC",
+          "description": "Assisted in new server deployment, Windows diagnostics, and automation with scripts."
+        },
+        {
+          "company": "Telvista-Verizon",
+          "position": "Technical Support Representative",
+          "period": "Mar 2024 - Jul 2024",
+          "location": "Tijuana, BC",
+          "description": "Router, VoIP, and cable box support."
+        },
+        {
+          "company": "One-Click - Veo",
+          "position": "Technical Support Representative",
+          "period": "Jul 2023 - Mar 2024",
+          "location": "Tijuana, BC",
+          "description": "AI camera support, updates, Salesforce CRM."
+        },
+        {
+          "company": "Programación Caret de Mexico",
+          "position": "Full Stack Developer .Net (Internship)",
+          "period": "Mar 2022 - Jul 2022",
+          "location": "Tijuana, BC",
+          "description": "Web development with .Net, Bootstrap, JavaScript, AWS, SQL."
+        },
+        {
+          "company": "Poly-HP Company",
+          "position": "Technical Support Representative",
+          "period": "Apr 2022 - Mar 2023",
+          "location": "Tijuana, BC",
+          "description": "Support for IP video terminals and VoIP phones."
+        },
+        {
+          "company": "Instituto Frontera",
+          "position": "Backend Developer Laravel (Internship)",
+          "period": "Aug 2021 - Dec 2021",
+          "location": "Tijuana, BC",
+          "description": "Virtual classroom maintenance with Laravel and Git."
+        }
+      ]
+    },
+    "portfolio": {
+      "title": "Portfolio",
+      "description": "A selection of my most outstanding projects and recent work.",
+      "items": [
+        {
+          "image": "/pictures/1.jpeg",
+          "title": "Network Infrastructure",
+          "description": "Server deployment and structured cabling.",
+          "tags": ["Networking", "Servers", "Panduit"]
+        },
+        {
+          "image": "/pictures/5.jpeg",
+          "title": "Script Automation",
+          "description": "Scripts for system administration and security.",
+          "tags": ["PowerShell", "CMD", "Automation"]
+        },
+        {
+          "image": "/pictures/Img1.jpg",
+          "title": "Arduino Project",
+          "description": "Automated control prototype with Arduino.",
+          "tags": ["Arduino", "Electronics", "C++"]
+        },
+        {
+          "image": "/pictures/6.png",
+          "title": "Web Development",
+          "description": "Applications with Node.js, Express, and React.",
+          "tags": ["Node.js", "Express", "React"]
+        }
+      ]
+    },
+    "contact": {
+      "title": "Contact",
+      "description": "Do you have a project in mind? Feel free to contact me.",
+      "formName": "Name",
+      "formEmail": "Email",
+      "formMessage": "Message",
+      "submit": "Send Message",
+      "social": {
+        "linkedin": "https://www.linkedin.com/in/jesus-daniel-hernandez-bocanegra-9b008322b/",
+        "github": "https://github.com/Thecooldaniel64",
+        "email": "jesusdanielh.b@hotmail.com",
+        "phone": "+52 (664) 335-8054"
+      },
+      "extra": "Write to me! I'll be happy to chat.",
+      "emailDirect": "jesusdanielh.b@hotmail.com"
+    },
+    "footer": {
+      "text": "Made with ❤️ by Jesús Daniel Hernández © 2026"
+    }
+  }
+}
