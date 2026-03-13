@@ -5,27 +5,15 @@ const socialLinks = [
   {
     name: 'LinkedIn',
     icon: Linkedin,
-    url: 'https://linkedin.com/in/tunombre',
+    url: 'https://www.linkedin.com/in/jesus-daniel-hernandez-bocanegra-9b008322b/',
     color: 'hover:text-blue-600',
   },
   {
     name: 'GitHub',
     icon: Github,
-    url: 'https://github.com/tunombre',
+    url: 'https://github.com/Thecooldaniel64',
     color: 'hover:text-gray-900',
-  },
-  {
-    name: 'Twitter',
-    icon: Twitter,
-    url: 'https://twitter.com/tunombre',
-    color: 'hover:text-blue-400',
-  },
-  {
-    name: 'Email',
-    icon: Mail,
-    url: 'mailto:tu@email.com',
-    color: 'hover:text-red-600',
-  },
+  }
 ];
 
 export function Contact() {
@@ -159,10 +147,10 @@ export function Contact() {
                 ¿Prefieres el email directo?
               </h4>
               <a
-                href="mailto:tu@email.com"
+                href="mailto:jesusdanielh.b@hotmail.com"
                 className="text-amber-500 hover:text-amber-400 underline text-lg"
               >
-                tu@email.com
+                jesusdanielh.b@hotmail.com
               </a>
               <p className="text-stone-400 mt-4">
                 Respondo generalmente en menos de 24 horas.

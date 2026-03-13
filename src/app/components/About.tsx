@@ -1,5 +1,6 @@
 import { Briefcase, Calendar, MapPin } from 'lucide-react';
 
+
 const experiences = [
   {
     company: 'Tech Innovators Inc.',
