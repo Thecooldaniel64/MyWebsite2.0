@@ -23,12 +23,28 @@ export function Contact() {
     message: '',
   });
 
-  const handleSubmit = (e: React.FormEvent) => {
-    e.preventDefault();
-    // Aquí puedes integrar con un servicio de email como Formspree, EmailJS, etc.
-    const mailtoLink = `mailto:tu@email.com?subject=Contacto desde CV - ${formData.name}&body=${formData.message}%0D%0A%0D%0ADe: ${formData.name} (${formData.email})`;
-    window.location.href = mailtoLink;
-  };
+  const handleSubmit = async (e: React.FormEvent) => {
+  e.preventDefault();
+  
+  try {
+    const response = await fetch('/api/contact', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify(formData),
+    });
+
+    const data = await response.json();
+
+    if (response.ok) {
+      alert('¡Mensaje enviado! Te responderé pronto.');
+      setFormData({ name: '', email: '', message: '' });
+    } else {
+      alert('Error: ' + data.error);
+    }
+  } catch (error) {
+    alert('Error de conexión. Intenta más tarde.');
+  }
+};
 
   const handleChange = (
     e: React.ChangeEvent<HTMLInputElement | HTMLTextAreaElement>
